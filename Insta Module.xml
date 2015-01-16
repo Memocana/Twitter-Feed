@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+  <Module> 
+    <ModulePrefs title="Twitter Timeline"/>
+      <Content type="html">
+        <![CDATA[
+
+          <iframe src="http://snapwidget.com/sl/?u=aGlzYXJjc3xpbnwzNzV8M3wzfHx5ZXN8NXxub25lfG9uU3RhcnR8eWVzfG5v&ve=160115" title="Instagram Widget" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:390px; height:390px"></iframe>
+                    
+        ]]>
+      </Content>
+    </Module>
