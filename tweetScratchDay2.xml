@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+  <Module> 
+    <ModulePrefs title="Twitter Timeline"/>
+      <Content type="html">
+        <![CDATA[
+
+          <blockquote class="twitter-tweet" lang="en"><p>Gun başlıyor <a href="https://twitter.com/hashtag/hisarschool?src=hash">#hisarschool</a> <a href="https://twitter.com/hashtag/edtech?src=hash">#edtech</a> <a href="https://twitter.com/hashtag/scratchDay?src=hash">#scratchDay</a> <a href="https://twitter.com/hashtag/scratch?src=hash">#scratch</a> <a href="http://t.co/mE6iinNaAy">pic.twitter.com/mE6iinNaAy</a></p>&mdash; Dilara Vardar (@dilaravardar26) <a href="https://twitter.com/dilaravardar26/status/466471940413476867">May 14, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    
+        ]]>
+      </Content>
+    </Module>
