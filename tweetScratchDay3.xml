@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+  <Module> 
+    <ModulePrefs title="Twitter Timeline"/>
+      <Content type="html">
+        <![CDATA[
+
+          <blockquote class="twitter-tweet" lang="en"><p>&quot;Scratch Day&quot; öğrenciler çok efor sarfediyor :-) Cem: -anladınız mı öğretmenim! :-) <a href="http://t.co/FAXorvOimK">pic.twitter.com/FAXorvOimK</a></p>&mdash; Ender TUNCALI (@EnderTUNCALI) <a href="https://twitter.com/EnderTUNCALI/status/466519111569539072">May 14, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    
+        ]]>
+      </Content>
+    </Module>
