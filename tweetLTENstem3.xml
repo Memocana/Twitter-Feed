@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+  <Module> 
+    <ModulePrefs title="Twitter Timeline"/>
+      <Content type="html">
+        <![CDATA[
+
+          <blockquote class="twitter-tweet" lang="en"><p>Bugun gurur günü <a href="https://twitter.com/hashtag/hisarlten?src=hash">#hisarlten</a> <a href="https://twitter.com/hashtag/hisarcs?src=hash">#hisarcs</a> <a href="https://twitter.com/hashtag/hisarcade?src=hash">#hisarcade</a> tebrikler çocuklar ve Sedat <a href="http://t.co/JiPUj2FofZ">pic.twitter.com/JiPUj2FofZ</a></p>&mdash; Dilara Vardar (@dilaravardar26) <a href="https://twitter.com/dilaravardar26/status/556041856984043521">January 16, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    
+        ]]>
+      </Content>
+    </Module>

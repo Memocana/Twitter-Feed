@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+  <Module> 
+    <ModulePrefs title="Twitter Timeline"/>
+      <Content type="html">
+        <![CDATA[
+
+          <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/hisar_school">@hisar_school</a> öğrencileri yaptıkları projeleri bize anlatıyorlar. Bu öğrenciler bi&#39; harika! :) <a href="https://twitter.com/hashtag/hisarlten?src=hash">#hisarlten</a> <a href="http://t.co/Cjij1gcJnH">pic.twitter.com/Cjij1gcJnH</a></p>&mdash; Belkıs Kaya (@KayaBelks) <a href="https://twitter.com/KayaBelks/status/556043365268348928">January 16, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    
+        ]]>
+      </Content>
+    </Module>
