@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+  <Module> 
+    <ModulePrefs title="Twitter Timeline"/>
+      <Content type="html">
+        <![CDATA[
+
+          <blockquote class="twitter-tweet" lang="en"><p>Öğrenciler <a href="https://twitter.com/hashtag/gafesummit?src=hash">#gafesummit</a> için okuldayken oturum arasında ışık açıp kapatan app yapmışlar, 1 saat içinde <a href="https://twitter.com/hisar_school">@hisar_school</a> <a href="http://t.co/Rq3Q5NuigD">pic.twitter.com/Rq3Q5NuigD</a></p>&mdash; Elif Kara Ozturk (@elifkaraozturk) <a href="https://twitter.com/elifkaraozturk/status/533955621545345024">November 16, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    
+        ]]>
+      </Content>
+    </Module>
