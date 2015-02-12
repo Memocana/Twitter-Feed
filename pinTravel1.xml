@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
   <Module> 
-    <ModulePrefs title="Twitter Timeline"/>
+    <ModulePrefs title="Pin Travel 1"/>
       <Content type="html">
         <![CDATA[
 
-          <iframe id='iframe' src='http://http://memocana.github.io/Twitter-Feed/pinTravel1.html' scrolling='no' frameborder='0'></iframe>
+          <iframe id='iframe' src='http://http://memocana.github.io/Twitter-Feed/pinTravel1.html' scrolling='no' frameborder='0' width = 'auto' height = '160'></iframe>
                     
         ]]>
       </Content>
