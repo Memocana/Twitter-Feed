@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+  <Module> 
+    <ModulePrefs title="Twitter Timeline"/>
+      <Content type="html">
+        <![CDATA[
+
+          <iframe id='iframe' src='http://flickrit.com/slideshowholder.php?height=400&width=500&size=medium&setId=72157649952392996&thumbnails=0&transition=0&layoutType=fixed&sort=0' scrolling='no' frameborder='0' width='500' height='410'></iframe>
+                    
+        ]]>
+      </Content>
+    </Module>
