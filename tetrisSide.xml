@@ -4,7 +4,7 @@
       <Content type="html">
         <![CDATA[
 
-          <iframe id='iframe' src='http://memocana.github.io/Twitter-Feed/tetrisSide.html' scrolling='no' frameborder='0' width='150' height='1500'></iframe>
+          <iframe id='iframe' src='http://memocana.github.io/Twitter-Feed/tetrisSide.html' scrolling='no' frameborder='0' width='150' height='2100'></iframe>
                     
         ]]>
       </Content>
