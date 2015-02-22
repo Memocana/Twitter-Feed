@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+  <Module> 
+    <ModulePrefs title="Twitter Timeline"/>
+      <Content type="html">
+        <![CDATA[
+
+          <iframe id='iframe' src='http://memocana.github.io/Twitter-Feed/slides/slide.html' scrolling='no' frameborder='0' width='1200' height='450'></iframe>
+                    
+        ]]>
+      </Content>
+    </Module>
