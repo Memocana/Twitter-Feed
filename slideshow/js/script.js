@@ -27,7 +27,7 @@ $(document).ready(function(){
 			// Enlarging the slideshow and photo:
 			
 			slideShow.animate({
-				width		: 1190,
+				width		: 1090,
 				height		: 350,
 				marginTop	: 10,
 				marginLeft	: 10
@@ -61,7 +61,7 @@ $(document).ready(function(){
 				slideShow.animate({				
 					rotate:Math.round($.rotate.radToDeg(slideShow.css('rotate'))+degrees) + 'deg'
 				},'slow').animate({
-					width		: 1190,
+					width		: 1090,
 					height		: 350,
 					marginTop	: 10,
 					marginLeft	: 10
