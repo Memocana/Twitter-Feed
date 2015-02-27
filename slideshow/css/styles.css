@@ -60,9 +60,9 @@ body{
 	text-decoration:none;
 	text-indent:-99999px;
 	overflow:hidden;
-	width:36px;
-	height:37px;
-	background:url('../img/arrows.png') no-repeat;
+	width:40px;
+	height:44px;
+	/*background:url('../img/arrows.png') no-repeat;*/
 	position:absolute;
 	top:50%;
 	margin-top:-21px;
@@ -70,22 +70,22 @@ body{
 
 #previousLink{
 	left:15px;
-	background-position:top left;
+	background:url('../img/left.png') no-repeat;
 	z-index: 101;
 }
 
 #previousLink:hover{
-	background-position:bottom left;
+	background:url('../img/left.png') no-repeat;
 }
 
 #nextLink{
 	right:5px;
-	background-position:bottom right;
+	background:url('../img/right.png') no-repeat;
 	z-index: 101;
 }
 
 #nextLink:hover{
-	background-position:bottom right;
+	background:url('../img/right.png') no-repeat;
 }
 
 /* General styles */
