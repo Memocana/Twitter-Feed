@@ -28,7 +28,7 @@ $(document).ready(function(){
 			
 			slideShow.animate({
 				width		: 1090,
-				height		: 350,
+				height		: 310,
 				marginTop	: 10,
 				marginLeft	: 10
 			},'fast',function(){
@@ -62,7 +62,7 @@ $(document).ready(function(){
 					rotate:Math.round($.rotate.radToDeg(slideShow.css('rotate'))+degrees) + 'deg'
 				},'slow').animate({
 					width		: 1090,
-					height		: 350,
+					height		: 310,
 					marginTop	: 10,
 					marginLeft	: 10
 				},'fast');
@@ -103,6 +103,7 @@ $(document).ready(function(){
 	// triggering the appropriate event.
 	
 	$('#previousLink').click(function(){
+		updateZindex();
 		if(slideShow.is(':animated')){
 			return false;
 		}
@@ -112,6 +113,7 @@ $(document).ready(function(){
 	});
 	
 	$('#nextLink').click(function(){
+		updateZindex();
 		if(slideShow.is(':animated')){
 			return false;
 		}
