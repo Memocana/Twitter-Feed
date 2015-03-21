@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+  <Module> 
+    <ModulePrefs title="Twitter Timeline"/>
+      <Content type="html">
+        <![CDATA[
+
+          <blockquote class="twitter-tweet" lang="en"><p>&quot;Öğretmenin rolü 21. Yüzyılda değişmek zorundadır&quot; Cem Ersöz <a href="https://twitter.com/hashtag/ETP15?src=hash">#ETP15</a> <a href="http://t.co/tKcFI5F84l">pic.twitter.com/tKcFI5F84l</a></p>&mdash; Elif Kara Öztürk (@elifkaraozturk) <a href="https://twitter.com/elifkaraozturk/status/579228057887752192">March 21, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    
+        ]]>
+      </Content>
+    </Module>

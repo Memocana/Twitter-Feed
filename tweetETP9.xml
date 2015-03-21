@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+  <Module> 
+    <ModulePrefs title="Twitter Timeline"/>
+      <Content type="html">
+        <![CDATA[
+
+          <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/hashtag/ETP15?src=hash">#ETP15</a> Cem Ersöz 21.yüzyılda öğreci olmak konulu sunumunu yapıyor. <a href="http://t.co/Ka0vKmGnmA">pic.twitter.com/Ka0vKmGnmA</a></p>&mdash; İbrahim Taşel (@IbrahimTaselFDD) <a href="https://twitter.com/IbrahimTaselFDD/status/579227345002897408">March 21, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    
+        ]]>
+      </Content>
+    </Module>

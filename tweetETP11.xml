@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+  <Module> 
+    <ModulePrefs title="Twitter Timeline"/>
+      <Content type="html">
+        <![CDATA[
+
+          <blockquote class="twitter-tweet" lang="en"><p>Öğrenciler bizlere serbest çalışma zamanı&amp;mekanı verirseniz farklı ve zevkli şeyler yapabiliyoruz ve en önemli öğreniyoruz diyorlar <a href="https://twitter.com/hashtag/ETZ15?src=hash">#ETZ15</a></p>&mdash; Elif Kara Öztürk (@elifkaraozturk) <a href="https://twitter.com/elifkaraozturk/status/579228733606875136">March 21, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    
+        ]]>
+      </Content>
+    </Module>

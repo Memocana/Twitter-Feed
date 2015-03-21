@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+  <Module> 
+    <ModulePrefs title="Twitter Timeline"/>
+      <Content type="html">
+        <![CDATA[
+
+          <blockquote class="twitter-tweet" lang="en"><p>Geleceğin öğretmeni nasıl olacak sorusunu cevaplamakiçin öğrencileri dinlemekgerek. <a href="https://twitter.com/hashtag/ETP15?src=hash">#ETP15</a> en güzel sunumu. Tebrikler <a href="http://t.co/6tVrIuLM4A">pic.twitter.com/6tVrIuLM4A</a></p>&mdash; Burcu Aybat (@burcuaybat) <a href="https://twitter.com/burcuaybat/status/579228783410040833">March 21, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    
+        ]]>
+      </Content>
+    </Module>
